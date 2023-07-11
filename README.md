@@ -4,7 +4,7 @@
 
 ## Abstract
 
-In recent years, thanks to the technological advancement of data processing capacity, it has been possible to almost completely sequence the human genome. This opened the doors to analyze in details mutational patterns in human cancers. Previews works \cite{1,2} were able to identify correlations between mutations and type of cancer. We propose a Siamese Neural Network in order to find similarities between cancers with a few shot learning technique.
+In recent years, thanks to the technological advancement of data processing capacity, it has been possible to almost completely sequence the human genome. This opened the doors to analyze in details mutational patterns in human cancers. Previews works were able to identify correlations between mutations and type of cancer. We propose a Siamese Neural Network in order to find similarities between cancers with a few shot learning technique.
 
 
 ## Prerequisites
